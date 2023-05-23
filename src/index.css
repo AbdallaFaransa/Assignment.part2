@@ -1,0 +1,13 @@
+*{
+  align-items: center;
+  box-sizing: border-box;
+  background-color: rgb(114, 115, 115);
+}
+
+button{
+  width: 50px;
+  height: 30px;
+  background-color: brown;
+  font-size: medium;
+  font-weight: bold;
+}
